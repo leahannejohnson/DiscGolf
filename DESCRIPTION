@@ -13,3 +13,4 @@ URL: https://github.com/leahannejohnson/DiscGolf
 License: MIT + file LICENSE
 Depends: 
     R (>= 2.10)
+BugReports: https://github.com/leahannejohnson/DiscGolf/issues
